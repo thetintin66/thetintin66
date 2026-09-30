@@ -42,8 +42,6 @@ Je développe mes compétences en programmation, algorithmique et informatique s
 * Linux / Shell
 * Make / Makefile
 * Environnements virtuels Python
-* mypy
-* uv
 
 ## 📌 Projets
 
