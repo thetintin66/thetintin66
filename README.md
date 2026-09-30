@@ -16,7 +16,9 @@ Je développe mes compétences en programmation, algorithmique et informatique s
 ### 💻 Langages
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat\&logo=gnubash\&logoColor=white)
 
 ### 🧠 Algorithmique & programmation
@@ -34,13 +36,11 @@ Je développe mes compétences en programmation, algorithmique et informatique s
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-427819?style=flat\&logo=gnu\&logoColor=white)
 
 * Git / GitHub
 * Linux / Shell
 * Make / Makefile
-* Docker
 * Environnements virtuels Python
 * `mypy`
 * `uv`
@@ -51,8 +51,8 @@ Je développe mes compétences en programmation, algorithmique et informatique s
 
 ## 🎯 Objectif
 
-Continuer à progresser en développement logiciel, approfondir mes connaissances en **C, Python et algorithmique**, et mettre progressivement mes compétences en pratique à travers de nouveaux projets.
+Continuer à progresser en développement logiciel, approfondir mes connaissances en **C, C++, Python et Java**, et mettre progressivement mes compétences en pratique à travers de nouveaux projets.
 
 ## 📫 Me contacter
 
-* 💻 GitHub : [@quentin](https://github.com/thetintin66)
+* 💻 GitHub : [@quentin](https://github.com/quentin)
