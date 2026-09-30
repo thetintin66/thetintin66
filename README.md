@@ -55,4 +55,4 @@ Continuer à progresser en développement logiciel, approfondir mes connaissance
 
 ## 📫 Me contacter
 
-* 💻 GitHub : [@quentin](https://github.com/quentin)
+* 💻 GitHub : [@quentin](https://github.com/thetintin66)
